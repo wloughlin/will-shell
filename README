@@ -1,0 +1,5 @@
+A simple shell for Linux Mint.
+
+Supports:
+ - input/output redirection and piping
+ - job control with ctrl-Z. Use jobs to see stopped jobs, fg %(jid) to resume job and kill %(jid) to kill a job. Use & to run a job in the background.
